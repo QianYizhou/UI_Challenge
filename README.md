@@ -43,6 +43,5 @@
 ## 开发要求
 * 使用 Qt 进行开发，建议使用较新的 Qt 版本，如 Qt 5.9.1 
 * 能够在 Ubuntu 16.04 编译通过并运行
-* 请使用 bitbucket 进行代码管理: git clone https://Yizhou_Qian@bitbucket.org/Yizhou_Qian/ui_exercises.git
 
 
