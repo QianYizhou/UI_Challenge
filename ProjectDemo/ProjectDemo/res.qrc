@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/block_catalog">
+        <file>res/images/block_catalog/arrow_normal.png</file>
+        <file>res/images/block_catalog/arrow_selected.png</file>
+        <file>res/images/block_catalog/bg.png</file>
+        <file>res/images/block_catalog/item_acousto-optic.png</file>
+        <file>res/images/block_catalog/item_bg_blue.png</file>
+        <file>res/images/block_catalog/item_bg_green.png</file>
+        <file>res/images/block_catalog/item_bg_purple.png</file>
+        <file>res/images/block_catalog/item_bg_red.png</file>
+        <file>res/images/block_catalog/item_bg_yellow.png</file>
+        <file>res/images/block_catalog/item_control.png</file>
+        <file>res/images/block_catalog/item_math.png</file>
+        <file>res/images/block_catalog/item_motion.png</file>
+        <file>res/images/block_catalog/item_sensor.png</file>
+        <file>res/images/block_catalog/item_separater.png</file>
+    </qresource>
+    <qresource prefix="/block_palette">
+        <file>res/images/block_palette/bg.png</file>
+        <file>res/images/block_palette/ScrollBar/scroll_bg.png</file>
+        <file>res/images/block_palette/ScrollBar/scroll_down.png</file>
+        <file>res/images/block_palette/ScrollBar/scroll_handle.png</file>
+        <file>res/images/block_palette/ScrollBar/scroll_left.png</file>
+        <file>res/images/block_palette/ScrollBar/scroll_right.png</file>
+        <file>res/images/block_palette/ScrollBar/scroll_up.png</file>
+    </qresource>
+    <qresource prefix="/blockpalette">
+        <file>res/images/leftview/Controler/icon_up_f.png</file>
+        <file>res/images/leftview/item_bg.png</file>
+        <file>res/images/leftview/item_hover.png</file>
+        <file>res/images/leftview/item_press.png</file>
+        <file>res/images/leftview/item_separator.png</file>
+        <file>res/images/leftview/Command/icon_break.png</file>
+        <file>res/images/leftview/Command/icon_continue.png</file>
+        <file>res/images/leftview/Command/icon_for.png</file>
+        <file>res/images/leftview/Command/icon_if.png</file>
+        <file>res/images/leftview/Command/icon_return.png</file>
+        <file>res/images/leftview/Command/icon_while.png</file>
+        <file>res/images/leftview/Sensor/icon_encode.png</file>
+        <file>res/images/leftview/Sensor/icon_grab.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/images/block/forwhile.png</file>
+        <file>res/images/block/main_main.png</file>
+        <file>res/images/block/main_modul1.png</file>
+        <file>res/images/block/main_modul2.png</file>
+        <file>res/images/block/main_modul3_2.png</file>
+        <file>res/images/block/main_modul3.png</file>
+    </qresource>
+</RCC>
